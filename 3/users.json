@@ -1,0 +1,28 @@
+[
+    {
+        "name": "İrşad",
+        "tweets": [
+            {
+                "content": "kedi"
+            },
+            {
+                "content": "nargile"
+            },
+            {
+                "content": "kahve"
+            }
+        ]
+    },
+    {
+        "name": "Ali",
+        "tweets": []
+    },
+    {
+        "name": "Hüseyin",
+        "tweets": [
+            {
+                "content": "roket"
+            }
+        ]
+    }
+]
