@@ -1,35 +1,14 @@
-# armagan_homework
+# WTMB JavaScript Homeworks
 
-Git commands:
+This repo is about first three homeworks of;
 
-We can create a repo from github and clone it.
-
-```bash
-git clone https://github.com/wspawned/test-folder-repo.git
+```
+Women Techmakers Berlin JavaScript Crash Course Vol 3
 ```
 
-Check git status.
-```bash
-git status
-```
-We can add new files or create a new React project under that file, later we can upload new files with git add.
-For specific files.
-```bash
-git add .\README.md
-```
-For all files.
-```bash
-git add .   
-```
-After staging the changes we can create a commit.
-```bash
-git commit -m"This is the commit msg"   
-```
-Last step, push.
-```bash
-git push  
-```
-This is a code sample:
-```js
-console.log("Hello there");
-```
+All course vids exist on the youtube playlist linked below.
+<br>
+https://www.youtube.com/playlist?list=PLtZdlh6zUVfNY8DNudUvu0ZFPvtq2xWUx
+
+Lastly, original repository of course <br>
+https://github.com/WTMBerlin/jscc2019
